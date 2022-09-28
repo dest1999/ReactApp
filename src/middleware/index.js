@@ -1,0 +1,1 @@
+export { botAnswer } from './botAnswer';
